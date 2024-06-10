@@ -21,7 +21,7 @@ repository               : "garyuppal/garyuppal.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   name             : "Gary Uppal"
   pronouns         : "he/him"  
   bio              : "Postdoctoral research fellow at the Brigham and Women’s Hospital (BWH) and Harvard Medical School (HMS), working on developing novel machine learning methods to understand the rules of colonization of the gut microbiome."
