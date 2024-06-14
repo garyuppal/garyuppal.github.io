@@ -27,7 +27,7 @@ author:
   bio              : "Computational biology postdoctoral research fellow at the Brigham and Women’s Hospital (BWH) and Harvard Medical School (HMS)."
   location         : "Boston, MA"
   employer         : "Harvard Medical School"
-  uri              : https://garyuppal.github.io
+  uri              : # https://garyuppal.github.io
   email            : # "none@example.org" 
 
   # Academic websites
