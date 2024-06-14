@@ -24,6 +24,8 @@ author_profile: true
 
 * Uppal, G. and Vural, D.C., 2018. [Shearing in flow environment promotes evolution of social behavior in microbial populations.](https://elifesciences.org/articles/34862.pdf) Elife, 7, p.e34862.
 
+Popular science article featuring this work [here](https://phys.org/news/2018-05-fluid-dynamics-key-role-evolution.html) and [editorial feature](https://medium.com/life-on-earth/going-with-the-flow-adeb65b150a4)
+
 ## Physics of aging
 
 * Uppal, G., Bahcecioglu, G., Zorlutuna, P. and Vural, D.C., 2020. [Tissue failure propagation as mediated by circulatory flow.](https://www.cell.com/biophysj/pdf/S0006-3495(20)30887-0.pdf) Biophysical Journal, 119(12), pp.2573-2583. 
