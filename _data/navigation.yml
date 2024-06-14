@@ -4,8 +4,8 @@ main:
     url: /research/
         
   - title: "Blog"
-    url: /year-archive/
+    url: /posts/
     
   - title: "CV"
-    url: /cv/
+    url: https://garyuppal.github.io/files/uppal_cv.pdf
 
