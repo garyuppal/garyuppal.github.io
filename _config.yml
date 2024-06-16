@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Gary Uppal"
-  pronouns         : "he/him"  
-  bio              : "Postdoctoral Fellow at the Brigham and Women’s Hospital (BWH) and Harvard Medical School (HMS)."
+  pronouns         : # "he/him"  
+  bio              : "Postdoctoral Fellow at Harvard Medical School (HMS) and Brigham and Women’s Hospital (BWH)."
   location         : "Boston, MA"
   employer         : "Harvard Medical School"
   uri              : # https://garyuppal.github.io
