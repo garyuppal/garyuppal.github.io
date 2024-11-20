@@ -4,13 +4,14 @@ permalink: /research/
 author_profile: true
 ---
 
-[//]: #(Summary of my research... Can find me on google scholar (link...))
+[//]: #(Summary of my research... Can find me on google scholar (link...) ...first principles research grounded in relevant biolgical questions; leveraging data)
 
 ## Machine learning for the microbiome
 
 [//]: #(add desciption of field and importance/relevance/practical applications...)
 
 * Uppal, G. & Gerber, G. K. (2023). [MC-SPACE: Microbial communities from spatially associated counts engine.](https://garyuppal.github.io/files/WCBICML2023_paper48.pdf) ICML CompBio.
+    - [GitHub](https://github.com/gerberlab/MCSPACE)
 
 [//]: #(graphical abstract(s) and github link -- as software package)
 
