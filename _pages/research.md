@@ -11,7 +11,7 @@ author_profile: true
 [//]: #(add desciption of field and importance/relevance/practical applications...)
 
 * Uppal, G. & Gerber, G. K. (2023). [MC-SPACE: Microbial communities from spatially associated counts engine.](https://garyuppal.github.io/files/WCBICML2023_paper48.pdf) ICML CompBio.
-    - [GitHub](https://github.com/gerberlab/MCSPACE)
+    - MCSPACE software package available [here](https://github.com/gerberlab/MCSPACE)
 
 [//]: #(graphical abstract(s) and github link -- as software package)
 
@@ -25,7 +25,7 @@ author_profile: true
 
 * Uppal, G. and Vural, D.C., 2018. [Shearing in flow environment promotes evolution of social behavior in microbial populations.](https://elifesciences.org/articles/34862.pdf) Elife, 7, p.e34862.
 
-Popular science article featuring this work [here](https://phys.org/news/2018-05-fluid-dynamics-key-role-evolution.html) and [editorial feature](https://medium.com/life-on-earth/going-with-the-flow-adeb65b150a4)
+    - See also popular science article featuring this work [here](https://phys.org/news/2018-05-fluid-dynamics-key-role-evolution.html) and editorial feature [here](https://medium.com/life-on-earth/going-with-the-flow-adeb65b150a4)
 
 ## Physics of aging
 
