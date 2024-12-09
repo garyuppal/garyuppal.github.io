@@ -9,9 +9,11 @@ author_profile: true
 ## Machine learning for the microbiome
 
 [//]: #(add desciption of field and importance/relevance/practical applications...)
+* Uppal, G., et al. (2024). [MCSPACE: inferring microbiome spatiotemporal dynamics from high-throughput co-localization data.](https://www.biorxiv.org/content/10.1101/2024.12.06.627244v1)  bioRxiv: the preprint server for biology. 
 
 * Uppal, G. & Gerber, G. K. (2023). [MC-SPACE: Microbial communities from spatially associated counts engine.](https://garyuppal.github.io/files/WCBICML2023_paper48.pdf) ICML CompBio.
-    - MCSPACE software package available [here](https://github.com/gerberlab/MCSPACE)
+
+* MCSPACE software package available [here](https://github.com/gerberlab/MCSPACE)
 
 [//]: #(graphical abstract(s) and github link -- as software package)
 
