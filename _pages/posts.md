@@ -6,5 +6,4 @@ author_profile: true
 
 [//]: #([by date](https://garyuppal.github.io/year-archive))
 
-## Bayesian inference
-[Variational inference](https://garyuppal.github.io/posts/variational_inference)
+[Double Descent Demystified: Rethinking Model Complexity in Machine Learning](https://garyuppal.github.io/posts/double_descent)

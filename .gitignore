@@ -1,4 +1,7 @@
 # Ignore the contents of the _site directory
+.bundle/
+vendor/
+.jekyll-cache/
 _site/
 
 # Ignore the directory for local files during development
